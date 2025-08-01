@@ -1,0 +1,3 @@
+# Force Railway to use the Dockerfile (avoid Nixpacks auto-detect)
+[build]
+builder = "DOCKERFILE"
